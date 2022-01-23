@@ -1,5 +1,5 @@
 # MIT-Eye-Exercise
-![The Eyes](https://cdn.discordapp.com/attachments/614283899354218518/934937983994437672/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/614283899354218518/934937983994437672/unknown.png" alt="The Eyes" width="200"> <br>
 A program that tracks your curser with simulated eye movement. An Exercise meant to test our ability to manipulate a grid structure and replicate a moving eye with HTML, Javascript, and CSS. 
 
 #### How to Run

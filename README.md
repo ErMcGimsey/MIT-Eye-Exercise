@@ -17,4 +17,4 @@ A program that tracks your curser with simulated eye movement. An Exercise meant
 
 ## License 
 
-review the MIT License [here](https://github.com/ErMcGimsey/MIT-Eye-Exercise/blob/main/LICENSE)
+Review the MIT License [here](https://github.com/ErMcGimsey/MIT-Eye-Exercise/blob/main/LICENSE)
